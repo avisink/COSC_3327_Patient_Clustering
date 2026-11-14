@@ -1,6 +1,6 @@
 # Patient Health Clustering with K-Means
 
-Unsupervised segmentation of 300 patients into three health profiles using K-Means, built as the final project for **COSC 3327: Introduction to Data Science** at Huston-Tillotson University.
+Unsupervised segmentation of 300 patients into three health profiles using K-Means, built as a team final project for **COSC 3327: Introduction to Data Science** at Huston-Tillotson University.
 
 <a href="https://colab.research.google.com/github/avisink/COSC_3327_Patient_Clustering/blob/main/Data_Science_Clustering_Final_Project.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -24,7 +24,7 @@ The dataset has no label column, so this is not a prediction task. K-Means group
 | `WeeklyExerciseHours` | Hours of exercise per week |
 | `SleepHoursPerNight` | Average hours of sleep per night |
 
-Source: TODO(ayo): name where the dataset came from (for example, provided by the course instructor) and whether it is synthetic.
+Source: provided by the course professor for the COSC 3327 final project.
 
 ## Method
 
@@ -81,6 +81,8 @@ Then choose **Run All**. The notebook needs an internet connection because it re
 
 Python · pandas · NumPy · scikit-learn (StandardScaler, KMeans, PCA) · Matplotlib · Jupyter / Google Colab
 
-## Author
+## Team
 
-**Ayomide (Ayo) Isinkaye** · [GitHub](https://github.com/avisink) · [LinkedIn](https://www.linkedin.com/in/avisinkaye)
+- **Ayomide (Ayo) Isinkaye** · [GitHub](https://github.com/avisink) · [LinkedIn](https://www.linkedin.com/in/avisinkaye)
+- **Abdulwadud Abdulkadir**
+- **Tochukwu Okezie**
